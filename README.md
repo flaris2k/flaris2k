@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 💬 Ask me about **javascript, reactjs, express, sql, nextjs**
+- 💬 Ask me about **javascript, reactjs, express, sql, nextjs, typescript**
 
 - 📫 How to reach me **arifaydindev@gmail.com**
 
